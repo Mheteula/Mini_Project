@@ -1,0 +1,15 @@
+
+
+2. we also need to check some //mistakes
+
+3. displaying list
+
+4. we need to let users add more than 1 product quantity
+
+5. 
+
+
+#######################################
+
+1. we need to make the log out button for everyone i.e 
+admin and users (except guest)
